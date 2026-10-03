@@ -1,0 +1,57 @@
+{
+  "fever": {
+    "category": "Possible viral fever",
+    "advice": "Rest, drink water, and check temperature twice a day.",
+    "see_doctor_if": "Fever stays above 102 F for more than 2 days, or you feel breathless."
+  },
+  "headache": {
+    "category": "Headache / stress or dehydration",
+    "advice": "Drink water, rest your eyes, and avoid skipping meals.",
+    "see_doctor_if": "Headache is sudden and severe, or comes with vomiting or blurred vision."
+  },
+  "cough": {
+    "category": "Cough / possible cold",
+    "advice": "Warm fluids, rest, and avoid cold drinks.",
+    "see_doctor_if": "Cough lasts more than a week, or you cough blood or cannot breathe well."
+  },
+  "cold": {
+    "category": "Common cold",
+    "advice": "Rest, steam inhalation, and fluids.",
+    "see_doctor_if": "High fever with the cold, or symptoms worsen after 4 days."
+  },
+  "stomach": {
+    "category": "Stomach upset",
+    "advice": "Light food (curd, rice, banana) and oral rehydration.",
+    "see_doctor_if": "Blood in stool, severe pain, or vomiting that does not stop."
+  },
+  "vomit": {
+    "category": "Stomach upset",
+    "advice": "Small sips of water. Do not eat heavy food.",
+    "see_doctor_if": "Vomiting continues for more than a day or you cannot keep water down."
+  },
+  "sleep": {
+    "category": "Sleep trouble / exam stress",
+    "advice": "Fixed sleep time, no phone 30 minutes before bed, short walk in the evening.",
+    "see_doctor_if": "You barely sleep for several nights and cannot function in class."
+  },
+  "anxiety": {
+    "category": "Stress / anxiety",
+    "advice": "Talk to a friend or college counsellor. Break study into 25-minute blocks.",
+    "see_doctor_if": "You feel panic, hopeless, or have thoughts of harming yourself."
+  },
+  "stress": {
+    "category": "Stress / anxiety",
+    "advice": "Talk to a friend or college counsellor. Break study into 25-minute blocks.",
+    "see_doctor_if": "Stress stops you from eating, sleeping, or attending class."
+  },
+  "injury": {
+    "category": "Minor injury",
+    "advice": "Clean the area, rest it, and use a cold pack for swelling.",
+    "see_doctor_if": "The wound is deep, bleeding does not stop, or a joint cannot move."
+  },
+  "rash": {
+    "category": "Skin rash",
+    "advice": "Do not scratch. Keep the area clean and dry.",
+    "see_doctor_if": "Rash spreads fast, or comes with fever and breathing trouble."
+  }
+}
