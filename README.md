@@ -63,3 +63,6 @@ risk_analyzer.py      CSV rules
 data/symptom_rules.json
 data/students.csv
 ```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
